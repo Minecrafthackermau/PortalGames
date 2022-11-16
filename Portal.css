@@ -1,0 +1,82 @@
+@charset "utf-8";
+.jumbotron.text-center.mt-2 {
+    background-image: url("images/space_bg.png");
+    background-size: cover;
+}
+.navbar.navbar-expand-lg.navbar-dark.cblue img {
+    width: 2.5%;
+    height: 2.5%;
+
+
+}
+.row .col-12.text-center h2 {
+    color: #ccc;
+}
+
+
+h1 {
+    color: #fff;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+
+}
+body {
+    background-color: #00000F;
+}
+p {
+    color: #ccf;
+}
+h6 {
+    color: #ccf;
+}
+
+h4 {
+    color: #ccc;
+}
+.row .col-md-4.col-12.contact-us .text-center {
+    color: #ccc;
+}
+.row .col-12 h1 {
+
+}
+.portallogo   {
+    width: 10%;
+    height: 50%;
+    margin-left: -222px;
+    margin-bottom: -81px;
+
+}
+.btn.btn-success {
+    background-color: inherit;
+}
+
+.col-12 p .btn.btn-primary.btn-lg {
+}
+ul   {
+    color: #ccf;
+    text-align: left;
+}
+.btn-gamelist {
+
+
+
+
+
+}
+.comingsoon {
+    margin-top: 20%;
+
+}
+
+
+
+
+
+
+
+
+@media screen{
+.cblue {
+    background-color: #113;
+}
+
+}
